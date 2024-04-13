@@ -21,7 +21,7 @@ const items = [
         id: 3,
         title: "Learn Hub Website Frontend",
         desc: "Designed and Developed education website having custom pages and features.",
-        skills: "Html, CSS, Gthub, Figma",
+        skills: "Html, CSS, JavaScript, jQuery, Bootstrap, Github, Figma",
         link: "https://shazib24sr.github.io/learnHub/"
     },
     {
