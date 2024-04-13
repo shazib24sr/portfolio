@@ -20,3 +20,31 @@ section{
     height: 100vh;
     scroll-snap-align: center;
 }
+@media only screen and (max-width: 900px) and (min-width: 300px) {
+    html{
+        scroll-snap-type: y mandatory;
+        scroll-behavior: smooth;
+    }
+    *{
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+        font-family: "DM Sans", sans-serif;
+    }
+    a{
+        text-decoration: none;
+        color: inherit;
+    }
+    body {
+        background-color: #0c0c1d;
+        width: 110vh;
+        color: white;
+        margin: 0; /* Remove default margin */
+        padding: 0; /* Remove default padding */
+    }
+    section{
+        height: 100vh;
+        
+        scroll-snap-align: center;
+    }
+  }
