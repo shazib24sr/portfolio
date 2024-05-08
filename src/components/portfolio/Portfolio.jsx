@@ -6,7 +6,7 @@ const items = [
     {
         id: 1,
         title: "Virtual Medical Advisor",
-        desc: "Based on React, Flask and Mongodb, helps user to find out information about medicine just by providing name or picture or just by a live scan.",
+        desc: "Based on React, Flask and Mongodb, helps user to find out information about medicine just by providing name or picture or just by a live scan.(Backend not hosted)",
         skills: "ReactJs, Flask(Pyhton), MongoDb, Netlify",
         link: "https://virtual-medical-advisor.netlify.app/"
     },
