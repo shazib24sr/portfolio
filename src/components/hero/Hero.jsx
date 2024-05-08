@@ -64,7 +64,7 @@ const Hero = () => {
                         <motion.a href="#Contact" variants={textVariants}>
   <motion.button>Contact Me</motion.button>
 </motion.a>
-<motion.a href="https://drive.google.com/uc?export=download&id=1AZK2IJCY9xRFmvXcQYTro0XyAq2UjwmY" variants={textVariants} target="_blank" rel="noopener noreferrer">
+<motion.a href="https://drive.google.com/file/d/1kXwJT9J2TQrw_2TeeKNziqYZUyK3ltq-/view?usp=drive_link" variants={textVariants} target="_blank" rel="noopener noreferrer">
   <motion.button>Download Resume</motion.button>
 </motion.a>
 
