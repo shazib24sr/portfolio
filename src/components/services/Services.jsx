@@ -42,7 +42,7 @@ const Services = () => {
           </div>
         </div>
         <div className="listContainer" variants={variants}>
-          <motion.div className="box" whileHover={{background:"lightgray", color: "black"}}><h2>Front-End Development</h2>
+          <motion.div className="box" whileHover={{background:"lightgray", color: "black"}}><h2>Website Development</h2>
           <p>
 Crafting bespoke user interfaces that mirror your brand's essence and deliver intuitive navigation, ensuring a captivating online experience that resonates with your audience. Let's collaborate to elevate your digital presence and create exceptional web solutions tailored to your needs.   
             </p><a href="https://drive.google.com/drive/folders/11JsE3IJUbaiR4WQcVGMoz7sVLdYM9E3t?usp=drive_link" target="blank"><button>Go</button></a>
