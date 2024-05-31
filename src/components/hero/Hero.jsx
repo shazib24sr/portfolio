@@ -56,7 +56,7 @@ const Hero = () => {
             <div className="wrapper">
                 <motion.div className="textContainer" variants={textVariants} initial="initial" animate="animate">
                     
-                    <motion.h1 variants={textVariants}>Web Developer and Graphic Designer</motion.h1>
+                    <motion.h1 variants={textVariants}>Web Developer | App Developer | Graphic Designer</motion.h1>
                     <motion.div variants={textVariants} className="buttons">
                     <motion.a href="#Portfolio" variants={textVariants}>
   <motion.button>See Latest Works</motion.button>
@@ -74,7 +74,7 @@ const Hero = () => {
                 </motion.div>
             </div>
             <motion.div className="slidingTextContainer" variants={sliderVariants} initial="initial" animate="animate">
-                Web Developer AND Graphic Designer
+                Web Developer | App Developer | Graphic Designer
             </motion.div>
             <div className="imageContainer">
                 <img src="/hero.png" alt="" />
