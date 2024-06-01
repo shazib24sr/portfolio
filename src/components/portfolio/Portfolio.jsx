@@ -24,15 +24,14 @@ const items = [
     },
     {
         id: 3,
-
         title: "Usuability Hub Website Frontend",
         desc: "Custom landing page of website, classic view of converion of figma design into html, css.",
         skills: "Html, CSS, Github, Figma",
         link: "https://shazib24sr.github.io/usuablityHub/#",
         sourceCode: "https://github.com/shazib24sr/usuablityHub.git"
-    }
+    },
     {
-id = 4,
+        id = 4,
         title: "Learn Hub Website Frontend",
         desc: "Designed and Developed education website having custom pages and features.",
         skills: "Html, CSS, JavaScript, jQuery, Bootstrap, Github, Figma",
@@ -54,7 +53,7 @@ id = 4,
         skills: "Adobe Photoshop, Adobe Illustrator, Canva, Figma",
         link: "https://drive.google.com/drive/folders/1-tMHLVPaN5viVOzZkGOLeryrQO1IGgv-?usp=drive_link",
         sourceCode: "https://drive.google.com/drive/folders/1-tMHLVPaN5viVOzZkGOLeryrQO1IGgv-?usp=drive_link"
-    }
+    },
 ];
 
 const Section = ({ children }) => {
