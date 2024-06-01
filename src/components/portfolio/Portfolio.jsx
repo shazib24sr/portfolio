@@ -6,11 +6,10 @@ const items = [
     {
         id: 1,
         title: "Virtual Medical Advisor",
-<<<<<<< HEAD
+
         desc: "Based on React, Flask and Mongodb, helps user to find out information about medicine just by providing name or picture or just by a live scan. (Server Not Hosted)",
-=======
-        desc: "Based on React, Flask and Mongodb, helps user to find out information about medicine just by providing name or picture or just by a live scan.(Backend not hosted)",
->>>>>>> d6b1ad742f016a3c9b63704be00002e8272d6d48
+
+ 
         skills: "ReactJs, Flask(Pyhton), MongoDb, Netlify",
         link: "https://virtual-medical-advisor.netlify.app/",
         sourceCode: "https://github.com/shazib24sr/Virtual-Medical-Advisor-AI-Based-.git"
@@ -25,21 +24,23 @@ const items = [
     },
     {
         id: 3,
-<<<<<<< HEAD
+
         title: "Usuability Hub Website Frontend",
         desc: "Custom landing page of website, classic view of converion of figma design into html, css.",
         skills: "Html, CSS, Github, Figma",
         link: "https://shazib24sr.github.io/usuablityHub/#",
         sourceCode: "https://github.com/shazib24sr/usuablityHub.git"
-=======
+    }
+    {
+id = 4,
         title: "Learn Hub Website Frontend",
         desc: "Designed and Developed education website having custom pages and features.",
         skills: "Html, CSS, JavaScript, jQuery, Bootstrap, Github, Figma",
         link: "https://shazib24sr.github.io/learnHub/"
->>>>>>> d6b1ad742f016a3c9b63704be00002e8272d6d48
+
     },
     {
-        id: 4,
+        id: 5,
         title: "Learn Hub Website Frontend",
         desc: "Designed and Developed education website having custom pages and features.",
         skills: "Html, CSS, Gthub, Figma",
@@ -47,7 +48,7 @@ const items = [
         sourceCode: "https://github.com/shazib24sr/learnHub.git"
     },
     {
-        id: 5,
+        id: 6,
         title: "Graphic Design",
         desc: "Some featured work of graphic design made for differnet purposes.",
         skills: "Adobe Photoshop, Adobe Illustrator, Canva, Figma",
