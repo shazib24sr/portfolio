@@ -31,7 +31,7 @@ const items = [
         sourceCode: "https://github.com/shazib24sr/usuablityHub.git"
     },
     {
-        id = 4,
+        id: 4,
         title: "Learn Hub Website Frontend",
         desc: "Designed and Developed education website having custom pages and features.",
         skills: "Html, CSS, JavaScript, jQuery, Bootstrap, Github, Figma",
