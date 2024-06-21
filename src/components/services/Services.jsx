@@ -52,7 +52,7 @@ Crafting bespoke user interfaces that mirror your brand's essence and deliver in
 </p>
 <a href="https://drive.google.com/drive/folders/1-tMHLVPaN5viVOzZkGOLeryrQO1IGgv-?usp=drive_link" target="blank"><button>See Recent Work</button></a>
           </motion.div>
-          <motion.div className="box" whileHover={{background:"lightgray", color: "black"}}><h2>Flutter App Development</h2>
+          <motion.div className="box" whileHover={{background:"lightgray", color: "black"}}><h2>Mobile App Development</h2>
           <p>Transform your ideas into dynamic and innovative mobile experiences with Flutter app development. Harnessing the power of Flutter's cross-platform capabilities, I craft seamless and responsive applications that deliver exceptional user interactions. Let's collaborate to bring your vision to life, creating intuitive and feature-rich mobile solutions tailored to meet your specific needs and exceed user expectations.</p>
           <a href=" https://drive.google.com/drive/folders/12T3xvFtovhMG1GIHjxBroDkPopYWVEAM?usp=sharing" target="blank"><button>See Recent Work</button></a>
           </motion.div>
